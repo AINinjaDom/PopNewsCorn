@@ -144,5 +144,5 @@ Contact
  
 If you have any questions or need further assistance, feel free to contact:
 
-Email: your.email@example.com
-GitHub: yourusername
+Email: dominic@data-science-hk.org
+GitHub: DataNinjaDom
