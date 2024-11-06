@@ -1,0 +1,1172 @@
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Six times Kemi Badenoch has proven she’s no ally to the LGBTQ+ community
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: au
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: in
+INFO:root:Saved news: Donald Trump's 'Project 2025': Abortion to gay rights and gun laws, 5 subjects that make new POTUS 'scary' for many
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+INFO:root:Saved news: Political Religion or Religious Politics?
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Religion news 4 November 2024
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Quebec religious group focused on suicide prevention files constitutional challenge
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Education Secretary faces court over shelving free speech laws
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: au
+INFO:root:Saved news: Panel examines free speech at universities
+INFO:root:Geolocation: in
+INFO:root:Saved news: Leave film reviewers alone, there's no room for an Idi Amin in the free market of ideas
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Cas Mudde: “The way free speech is interpreted legally always reflects the power dynamics”
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Geolocation: ca
+INFO:root:Saved news: What the “Most Anti-LGBTQ” Election in Decades Means for Trans People
+INFO:root:Geolocation: au
+INFO:root:Saved news: Votes Are Being Counted — So How Will This US Presidential Election Affect LGBT Rights?
+INFO:root:Geolocation: in
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Saved news: This stunning LGBTQ+ friendly destination has just been named the safest place for travel in 2025
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/ on URL https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+INFO:root:Saved news: The end of China’s challenging chapter?
+INFO:root:Geolocation: au
+INFO:root:Saved news: Why China Won’t Give Up on a Failing Economic Model
+INFO:root:Geolocation: in
+INFO:root:Saved news: The real problem with China’s economy | Mint
+INFO:root:Geolocation: hk
+DEBUG:jieba:Building prefix dict from /Users/dominicyu/anaconda3/lib/python3.11/site-packages/jieba/dict.txt ...
+DEBUG:jieba:Dumping model to file cache /var/folders/sn/q5pdtd_s5dd0ps6qtzqtm3cm0000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.8487482070922852 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+INFO:root:Saved news: 廣東前3季GDP低於中國平均 受房產、消費影響珠三角表現不佳
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: au
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: in
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Results for query: US Presidential Election
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/ on URL https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Six times Kemi Badenoch has proven she’s no ally to the LGBTQ+ community
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: au
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: in
+INFO:root:Saved news: Donald Trump's 'Project 2025': Abortion to gay rights and gun laws, 5 subjects that make new POTUS 'scary' for many
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+INFO:root:Saved news: Political Religion or Religious Politics?
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Religion news 4 November 2024
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Quebec religious group focused on suicide prevention files constitutional challenge
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Education Secretary faces court over shelving free speech laws
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: au
+INFO:root:Saved news: Panel examines free speech at universities
+INFO:root:Geolocation: in
+INFO:root:Saved news: Leave film reviewers alone, there's no room for an Idi Amin in the free market of ideas
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Cas Mudde: “The way free speech is interpreted legally always reflects the power dynamics”
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Geolocation: ca
+INFO:root:Saved news: What the “Most Anti-LGBTQ” Election in Decades Means for Trans People
+INFO:root:Geolocation: au
+INFO:root:Saved news: Votes Are Being Counted — So How Will This US Presidential Election Affect LGBT Rights?
+INFO:root:Geolocation: in
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Saved news: This stunning LGBTQ+ friendly destination has just been named the safest place for travel in 2025
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/ on URL https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Six times Kemi Badenoch has proven she’s no ally to the LGBTQ+ community
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: au
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: in
+INFO:root:Saved news: Donald Trump's 'Project 2025': Abortion to gay rights and gun laws, 5 subjects that make new POTUS 'scary' for many
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+INFO:root:Saved news: Political Religion or Religious Politics?
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Religion news 4 November 2024
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Quebec religious group focused on suicide prevention files constitutional challenge
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Education Secretary faces court over shelving free speech laws
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: au
+INFO:root:Saved news: Panel examines free speech at universities
+INFO:root:Geolocation: in
+INFO:root:Saved news: Leave film reviewers alone, there's no room for an Idi Amin in the free market of ideas
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Cas Mudde: “The way free speech is interpreted legally always reflects the power dynamics”
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Geolocation: ca
+INFO:root:Saved news: What the “Most Anti-LGBTQ” Election in Decades Means for Trans People
+INFO:root:Geolocation: au
+INFO:root:Saved news: Votes Are Being Counted — So How Will This US Presidential Election Affect LGBT Rights?
+INFO:root:Geolocation: in
+INFO:root:Saved news: Compare Trump and Harris' views on LGBTQ rights and marriage equality
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Twitch streams about "political and sensitive issues" including "reproductive and LGBTQ+ rights" now require a label
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+INFO:root:Saved news: This stunning LGBTQ+ friendly destination has just been named the safest place for travel in 2025
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/ on URL https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+INFO:root:Saved news: The end of China’s challenging chapter?
+INFO:root:Geolocation: au
+INFO:root:Saved news: Why China Won’t Give Up on a Failing Economic Model
+INFO:root:Geolocation: in
+INFO:root:Saved news: The real problem with China’s economy | Mint
+INFO:root:Geolocation: hk
+DEBUG:jieba:Building prefix dict from /Users/dominicyu/anaconda3/lib/python3.11/site-packages/jieba/dict.txt ...
+DEBUG:jieba:Loading model from cache /var/folders/sn/q5pdtd_s5dd0ps6qtzqtm3cm0000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.37766194343566895 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+INFO:root:Saved news: 廣東前3季GDP低於中國平均 受房產、消費影響珠三角表現不佳
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: au
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: in
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Some progress but further action needed to hold China accountable for grave human rights violations
+INFO:root:Results for query: US Presidential Election
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/ on URL https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Who do Europeans want to win the 2024 US presidential election?
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://apnews.com/live/trump-harris-election-updates-11-5-2024: Article `download()` failed with 403 Client Error: Forbidden for url: https://apnews.com/live/trump-harris-election-updates-11-5-2024 on URL https://apnews.com/live/trump-harris-election-updates-11-5-2024
+INFO:root:Geolocation: au
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Six times Kemi Badenoch has proven she’s no ally to the LGBTQ+ community
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: au
+INFO:root:Saved news: Allyship or betrayal? The dilemma of supporting LGBTQ+ rights and Donald Trump
+INFO:root:Geolocation: in
+INFO:root:Saved news: Donald Trump's 'Project 2025': Abortion to gay rights and gun laws, 5 subjects that make new POTUS 'scary' for many
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+INFO:root:Saved news: Political Religion or Religious Politics?
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Religion news 4 November 2024
+INFO:root:Geolocation: ca
+INFO:root:Saved news: Quebec religious group focused on suicide prevention files constitutional challenge
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Saved news: Donald Trump’s Hatred of Free Speech
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Education Secretary faces court over shelving free speech laws
+INFO:root:Geolocation: ca
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: mbQCn8E-9Y5LLn8jpIUu5)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: 8leC9ljNJYPHl1B8eZp3f)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: VEuw0KvddhURtc8f-F_EU)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: Zf1hu04j6wwoFQ2_9ZZUW)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: EbJuvyyt2u0uKs0-vr7-r)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: zAPmUxxsr_qLNz--ldzDL)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.theweek.in/news/world/2024/11/06/donald-trump-s-project-2025-abortion-to-gay-rights-and-gun-laws-5-subjects-that-make-new-potus-scary-for-many.html:  (Request ID: voGwvWxjMxknizBYYyr01)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://livingchurch.org/commentary/political-religion-or-religious-politics/:  (Request ID: Z2DR0P7herRa0Rq-p9ynE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: EebA-piBzOKivW80ug82g)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.lakelandtoday.ca/religion-news/quebec-religious-group-focused-on-suicide-prevention-files-constitutional-challenge-9749329:  (Request ID: 3AkEmC43g3qAVzvUfPxez)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: KA4Bzc7v2qpnH7yQ8B15m)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.telegraph.co.uk/politics/2024/11/03/education-secretary-court-shelve-free-speech-law-academics/:  (Request ID: PJoRfIGQ_Q0gZGv0qoEQU)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: scJnXVGfsqpElHmoaxnNa)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.uwa.edu.au/news/article/2024/november/panel-examines-free-speech-at-universities:  (Request ID: CiZSOQC2Eac2U2ui9gcL3)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.newindianexpress.com/web-only/2024/Nov/04/leave-film-reviewers-alone-theres-no-room-for-an-idi-amin-in-the-free-market-of-ideas:  (Request ID: uncs595HmHIpm8h_hyh1w)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://voxeurop.eu/en/cas-mudde-freedom-of-speech-power-dynamics/:  (Request ID: qhfJh7HIYGZsv4RXAjvHA)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: rRxAkBR6HmQU7kK6dgpkB)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: hv-WW-Ogrr_en0P7EmSAr)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.motherjones.com/politics/2024/11/harris-trump-trans-rights-election-lgbtq/:  (Request ID: dYFpNReuoo4xoz9zIkbFN)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.starobserver.com.au/news/2024-us-election-president-how-affects-lgbt-people/233726:  (Request ID: vhRTVNvmBramWgz5nxuV2)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: 6OJcWfuDh041wTEhfk6GE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: vNwbeOtcXAe91tO5eZqkP)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/04/iceland-safe-lgbtq-travel-holidays-flights/:  (Request ID: ppT0X81kplRCAUxv07laQ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/ on URL https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.rbcwealthmanagement.com/en-ca/insights/the-end-of-chinas-challenging-chapter:  (Request ID: JDJKFbcZvT1dShGqek3ip)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.foreignaffairs.com/china/why-china-wont-give-failing-economic-model:  (Request ID: pus0-XjLL6G95Ikg_X50z)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.livemint.com/economy/the-real-problem-with-china-s-economy-11730798259151.html:  (Request ID: s7TXWoR864hCNqr02cHE4)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+DEBUG:jieba:Building prefix dict from /Users/dominicyu/anaconda3/lib/python3.11/site-packages/jieba/dict.txt ...
+DEBUG:jieba:Loading model from cache /var/folders/sn/q5pdtd_s5dd0ps6qtzqtm3cm0000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.3945431709289551 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+ERROR:root:Error summarizing article at https://www.rfa.org/cantonese/news/china-economy-guangdong-gdp-q1-q3-below-national-average-11042024134525.html: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-multi-zh-en (Request ID: I2gLFH8B-XYbfrVCBWa_H)
+
+Model Helsinki-NLP/opus-mt-multi-zh-en does not exist
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: LNxgdMQbRUH6BEwNCpvgl)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: NI1iQpB8LArZwj9u846Q2)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: -jfYgBgDJX9XfHU5OkZaB)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: MrMq3u9QryANz3bQPxi-k)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: RBFesQqdr1tzSf5O-5SG7)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: HCJ0yqHr8ZbJS_dknpmAt)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: 7FWrsF4Ziq8HWM0A38MK-)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: vPM19_S1vzkg2FgeVqomX)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.theweek.in/news/world/2024/11/06/donald-trump-s-project-2025-abortion-to-gay-rights-and-gun-laws-5-subjects-that-make-new-potus-scary-for-many.html:  (Request ID: P-zuN_makdC3SYd8uY4eF)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://livingchurch.org/commentary/political-religion-or-religious-politics/:  (Request ID: MCRA_tsCfCuLpFKZmsA7N)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: 8eI3E4XyDJLOIJxqEU8vp)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.lakelandtoday.ca/religion-news/quebec-religious-group-focused-on-suicide-prevention-files-constitutional-challenge-9749329:  (Request ID: JXaGKzJNCZSzt1BixHMPs)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: aKPJdFdRgycSwVrYRcj1X)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: jm0rIfgoS7nvwHByST_Md)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: PmxgvR_fkvNMXGhVf7lNx)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: ri0wLTqgyhOo1nObkzxIS)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.theweek.in/news/world/2024/11/06/donald-trump-s-project-2025-abortion-to-gay-rights-and-gun-laws-5-subjects-that-make-new-potus-scary-for-many.html:  (Request ID: VjCxyO-BeU2-xwk6dpplQ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://livingchurch.org/commentary/political-religion-or-religious-politics/:  (Request ID: N3zr_VP9Pb4HeLiRQZeXV)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: WsTT-ZKfJxUqNwHWMXW1e)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.lakelandtoday.ca/religion-news/quebec-religious-group-focused-on-suicide-prevention-files-constitutional-challenge-9749329:  (Request ID: dioYxMKWX82cSzhALG_HG)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: _p76PsdTpx1hgOVOiRUvB)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.telegraph.co.uk/politics/2024/11/03/education-secretary-court-shelve-free-speech-law-academics/:  (Request ID: bL-_KUIN51zhDtA_UixDF)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: zVu7pf7pjbQqIqkRL1q74)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: YcNywFK74PNo3AjnJ2_0x)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: JldLrlCMSDlEEIgqVO8jG)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: PEykBZwWembeZO-qBPQMV)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: tkrZv6fvLpAOO4ZXUlCpp)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.theweek.in/news/world/2024/11/06/donald-trump-s-project-2025-abortion-to-gay-rights-and-gun-laws-5-subjects-that-make-new-potus-scary-for-many.html:  (Request ID: 309aofEf5MxQccKtO8Emu)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://livingchurch.org/commentary/political-religion-or-religious-politics/:  (Request ID: qxT6jDb0MgSoVbdbUjx8c)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: 6YKswt3Ba4208oTdO6uWM)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.lakelandtoday.ca/religion-news/quebec-religious-group-focused-on-suicide-prevention-files-constitutional-challenge-9749329:  (Request ID: aOPBeDAI6w3XsnQ-p9ZKz)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+INFO:root:Saved news: Taiwan security forces accused of trailing mainland Chinese religious group
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: oVQANNHFqeRLHiVu6lGQ_)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.telegraph.co.uk/politics/2024/11/03/education-secretary-court-shelve-free-speech-law-academics/:  (Request ID: 8EIFrdN5qr9XRuuYYEe1U)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: f568nGDCTMD0_wyVmV0DB)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.uwa.edu.au/news/article/2024/november/panel-examines-free-speech-at-universities:  (Request ID: 62UZNUGZH4HBMKIA4wmMR)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.newindianexpress.com/web-only/2024/Nov/04/leave-film-reviewers-alone-theres-no-room-for-an-idi-amin-in-the-free-market-of-ideas:  (Request ID: QE4IaSSJy5jURmnwDhUU7)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://voxeurop.eu/en/cas-mudde-freedom-of-speech-power-dynamics/:  (Request ID: WTLaUderDdUV82TBkink3)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: bcSg4ruFMwuATpLgZYZSH)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: Rc9A0z7w5T7ez32C4Xpro)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.motherjones.com/politics/2024/11/harris-trump-trans-rights-election-lgbtq/:  (Request ID: QIMM-xuB3ntgu4BLRTS6Y)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.starobserver.com.au/news/2024-us-election-president-how-affects-lgbt-people/233726:  (Request ID: TsmYzukhvMAxBQDiG2i3h)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: ku18abx6IwBCeGck8IFkR)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: XtZLWRX7CS_HtnRUGjVox)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/04/iceland-safe-lgbtq-travel-holidays-flights/:  (Request ID: jmvuwJJFchhJ4SltY3SEm)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/ on URL https://www.reuters.com/world/china/why-chinas-economy-is-more-vulnerable-trump-tariffs-this-time-2024-11-06/
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.rbcwealthmanagement.com/en-ca/insights/the-end-of-chinas-challenging-chapter:  (Request ID: 8ayE2vxa0S2T1sezave5X)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.foreignaffairs.com/china/why-china-wont-give-failing-economic-model:  (Request ID: OWKFO7FSHWuwxHLs3DMNe)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.livemint.com/economy/the-real-problem-with-china-s-economy-11730798259151.html:  (Request ID: Ivh9dKYEwSRSPcHRDGPpz)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+DEBUG:jieba:Building prefix dict from /Users/dominicyu/anaconda3/lib/python3.11/site-packages/jieba/dict.txt ...
+DEBUG:jieba:Loading model from cache /var/folders/sn/q5pdtd_s5dd0ps6qtzqtm3cm0000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.39582014083862305 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+ERROR:root:Error summarizing article at https://www.rfa.org/cantonese/news/china-economy-guangdong-gdp-q1-q3-below-national-average-11042024134525.html: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-multi-zh-en (Request ID: cuP578WNGjcr7yqqfeshL)
+
+Model Helsinki-NLP/opus-mt-multi-zh-en does not exist
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: 1l9Kbzz4vpeepIw8xKSOe)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: FTpZcjO36i3qyCduKZ0nl)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: 2ejkdyv90IszmGFseVCYW)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: E581Yrj-lrz0B-PHZ7twg)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: zUv78Gzvx8ypffGRdRMcF)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: Q6pTBRGJmnW6TdMxCjuRQ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: US Presidential Election
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/ on URL https://www.reuters.com/world/us-presidential-election-day-live-2024-11-05/
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://yougov.co.uk/politics/articles/50844-who-do-europeans-want-to-win-the-2024-us-presidential-election:  (Request ID: Fs678qTuRSbsSze_gt3lL)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://apnews.com/live/trump-harris-election-updates-11-5-2024: Article `download()` failed with 403 Client Error: Forbidden for url: https://apnews.com/live/trump-harris-election-updates-11-5-2024 on URL https://apnews.com/live/trump-harris-election-updates-11-5-2024
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://theconversation.com/who-formally-declares-the-winner-of-the-us-presidential-election-242564:  (Request ID: GNFQ3jqFkBFDJg2YZ9RcJ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html on URL https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://theconversation.com/who-formally-declares-the-winner-of-the-us-presidential-election-242564:  (Request ID: nKv1Nz3z9RH-IPdxaPS9H)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: Global Warming
+INFO:root:Geolocation: us
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: uk
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Results for query: LGBTQ+ rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: LCgfCEHSnCS3sMsG6AD-Y)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/03/kemi-badenoch-lgbtq-rights-gay-trans/:  (Request ID: o6Fu5DVSJVBAEfTqQ6snE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: 6ao3h0NfowJ-1fRV5T9qH)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.advocate.com/voices/donald-trump-lgbtq:  (Request ID: 6lPVFhS6WaxFu9OL-bIpE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.theweek.in/news/world/2024/11/06/donald-trump-s-project-2025-abortion-to-gay-rights-and-gun-laws-5-subjects-that-make-new-potus-scary-for-many.html:  (Request ID: k5IXQ8Kpm--lMovzJDo4P)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/ on URL https://www.timesofisrael.com/global-lgbtq-group-suspends-israeli-organization-angering-queer-jews-and-allies/
+INFO:root:Results for query: religion news
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://livingchurch.org/commentary/political-religion-or-religious-politics/:  (Request ID: xtRabHI0xtz7sl01kHcAW)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: bSjTbx2uXyqK1D9qcaEUL)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.lakelandtoday.ca/religion-news/quebec-religious-group-focused-on-suicide-prevention-files-constitutional-challenge-9749329:  (Request ID: 8YOny7axBSNb2CBgeoZOP)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530 on URL https://www.abc.net.au/news/2024-11-03/religion-in-canberra-and-why-people-believe/104488530
+INFO:root:Geolocation: in
+INFO:root:Saved news: Millions of Indians celebrate Diwali, the festival of lights
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://religionmediacentre.org.uk/news/religion-news-4-november-2024/:  (Request ID: 7cuJ8Z3femUqGVUAyEtrC)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: freedom of speech
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: qaQFTDXjFHCc2i7yp9WpC)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.telegraph.co.uk/politics/2024/11/03/education-secretary-court-shelve-free-speech-law-academics/:  (Request ID: Y6YXyCedbeQrzVdwI7mEf)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.theatlantic.com/politics/archive/2024/11/donald-trump-hates-free-speech/680515/:  (Request ID: ZELM3ls1HAzo_8wbBpy_n)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.uwa.edu.au/news/article/2024/november/panel-examines-free-speech-at-universities:  (Request ID: U0VbGFKOHLTKUtDLNjMIf)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.newindianexpress.com/web-only/2024/Nov/04/leave-film-reviewers-alone-theres-no-room-for-an-idi-amin-in-the-free-market-of-ideas:  (Request ID: 7fwWaA19x9YOc5ntcsKlz)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://voxeurop.eu/en/cas-mudde-freedom-of-speech-power-dynamics/:  (Request ID: p7J5QCNbUhndz2OssVGRG)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ rights and religion
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: zOqOp_MDUMi9UdSXOutDO)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: e-7iTPmwj9jyq25IR4a4W)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.motherjones.com/politics/2024/11/harris-trump-trans-rights-election-lgbtq/:  (Request ID: 53z7wzE6MDPLyMMaC8lBc)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.starobserver.com.au/news/2024-us-election-president-how-affects-lgbt-people/233726:  (Request ID: er97-HOeeIUDC3Bzkt6Ni)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.cbsnews.com/news/trump-harris-lgbtq-rights-2024/:  (Request ID: EglhElQihXkagdwlcOtHw)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.eurogamer.net/twitch-streams-about-political-and-sensitive-issues-including-reproductive-and-lgbtq-rights-now-require-a-label:  (Request ID: TXArET6QXpxTgTQh9FV_c)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: LGBTQ+ friendly churches
+INFO:root:Geolocation: us
+INFO:root:Geolocation: uk
+INFO:root:Geolocation: ca
+INFO:root:Geolocation: au
+INFO:root:Geolocation: in
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.thepinknews.com/2024/11/04/iceland-safe-lgbtq-travel-holidays-flights/:  (Request ID: yCXLdRGIbAhDgLaWWgsnn)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: China Economy
+INFO:root:Geolocation: us
+INFO:root:Saved news: China Economy Picks Up on Stimulus Push Ahead of US Election
+INFO:root:Geolocation: uk
+INFO:root:Saved news: Chinese factory activity expands for first time in six months
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.rbcwealthmanagement.com/en-ca/insights/the-end-of-chinas-challenging-chapter:  (Request ID: Ga9SFEP9qgHq93FfmRPK5)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+INFO:root:Saved news: Consumer giants sceptical of China’s economic recovery
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.livemint.com/economy/the-real-problem-with-china-s-economy-11730798259151.html:  (Request ID: uPlv9-hJxIBZ_3BwEUHZJ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+DEBUG:jieba:Building prefix dict from /Users/dominicyu/anaconda3/lib/python3.11/site-packages/jieba/dict.txt ...
+DEBUG:jieba:Loading model from cache /var/folders/sn/q5pdtd_s5dd0ps6qtzqtm3cm0000gn/T/jieba.cache
+DEBUG:jieba:Loading model cost 0.347304105758667 seconds.
+DEBUG:jieba:Prefix dict has been built succesfully.
+ERROR:root:Error summarizing article at https://www.rfa.org/cantonese/news/china-economy-guangdong-gdp-q1-q3-below-national-average-11042024134525.html: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-multi-zh-en (Request ID: -FUPBDB4u7Lwulrf2GkQL)
+
+Model Helsinki-NLP/opus-mt-multi-zh-en does not exist
+INFO:root:Results for query: China Human Rights
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: 99Mm9eSWu6TuLuM0WvvF-)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: fUjwMFjGJ_AIaofcf4_6N)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: BZB79DDdmwKrsdtdxzkpa)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: oTco89jt1RxEvBtmaQRVs)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: tbb1mdyUxZZQ7Pp-ChdOz)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: axpLLNaBof2ffjanv7GBj)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: US Presidential Election
+INFO:root:Geolocation: us
+INFO:root:Saved news: Live updates: Trump wins the 2024 presidential election, CNN projects | CNN Politics
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://yougov.co.uk/politics/articles/50844-who-do-europeans-want-to-win-the-2024-us-presidential-election:  (Request ID: LgLEhs4NRVAdB_G3-aC27)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://apnews.com/live/trump-harris-election-updates-11-5-2024: Article `download()` failed with 403 Client Error: Forbidden for url: https://apnews.com/live/trump-harris-election-updates-11-5-2024 on URL https://apnews.com/live/trump-harris-election-updates-11-5-2024
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://theconversation.com/who-formally-declares-the-winner-of-the-us-presidential-election-242564:  (Request ID: Qp4IoP3JbFUHqLnakLi4M)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html on URL https://www.hindustantimes.com/world-news/us-presidential-election-2024-result-live-check-united-states-poll-results-latest-america-president-news-today-101730848100395.html
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://theconversation.com/who-formally-declares-the-winner-of-the-us-presidential-election-242564:  (Request ID: JM6Y9bKCBFqQLog7kO0Un)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: Global Warming
+INFO:root:Geolocation: us
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: uk
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: ca
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: au
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: in
+INFO:root:Saved news: What is climate change? A really simple guide
+INFO:root:Geolocation: hk
+INFO:root:Saved news: How climate change could impact Hong Kong
+INFO:root:Results for query: Hong Kong Human Rights and Freedom
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: j-_Ayh4Vuzn13Fsql8KmQ)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: QJKaWMs-01GkyC6bcr5ax)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: 1JZPnu-gCCE5Jl4s1ym50)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: bp7Y6umMW9xluZEBhq9BY)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: 8Ljx7-ikYfLh4c2RNkYHg)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://ishr.ch/latest-updates/some-progress-but-further-action-needed-to-hold-china-accountable-for-grave-human-rights-violations/:  (Request ID: wN3k3F6qbgc2cgfw2to7f)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: Transgender
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.nbcnews.com/nbc-out/out-politics-and-policy/sarah-mcbride-first-transgender-congress-delaware-rcna177878:  (Request ID: mRpueJ7g5d3LROaRJtrUX)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+INFO:root:Saved news: US elects first openly transgender Congresswoman on night of historic firsts
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://edmontonjournal.com/news/local-news/lgbtq-organizations-look-to-legally-challenge-albertas-new-transgender-policies-if-passed: Article `download()` failed with 403 Client Error: Forbidden for url: https://edmontonjournal.com/news/local-news/lgbtq-organizations-look-to-legally-challenge-albertas-new-transgender-policies-if-passed on URL https://edmontonjournal.com/news/local-news/lgbtq-organizations-look-to-legally-challenge-albertas-new-transgender-policies-if-passed
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.nbcnews.com/nbc-out/out-politics-and-policy/sarah-mcbride-first-transgender-congress-delaware-rcna177878:  (Request ID: 7HaBwlA-VffHwjQeRmvl4)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.livemint.com/news/us-news/lisa-blunt-rochester-black-woman-sarah-mcbride-transgender-andy-kim-korean-american-historic-wins-of-us-election-2024-11730863796195.html:  (Request ID: XfWRBLYSS3F5wMsWWSDKy)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://www.nbcnews.com/nbc-out/out-politics-and-policy/sarah-mcbride-first-transgender-congress-delaware-rcna177878:  (Request ID: 0DGGWABh-NKwBbnmTZNAH)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Results for query: AI
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.colorado.edu/today/2024/11/01/textbooks-come-alive-new-interactive-ai-tool:  (Request ID: PL4X6kcOs9wZpqOarf_lE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.lse.ac.uk/Events/2024/11/202411051830/AI-in-public-policy-opportunities-and-challenges:  (Request ID: fiREHd7UJyMMSDVqinnzP)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/: Article `download()` failed with 403 Client Error: Max restarts limit reached for url: https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/ on URL https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.abc.net.au/news/2024-11-04/ai-artificial-intelligence-hallucinations-defamation-chatgpt/104518612: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.abc.net.au/news/2024-11-04/ai-artificial-intelligence-hallucinations-defamation-chatgpt/104518612 on URL https://www.abc.net.au/news/2024-11-04/ai-artificial-intelligence-hallucinations-defamation-chatgpt/104518612
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/: Article `download()` failed with 403 Client Error: Max restarts limit reached for url: https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/ on URL https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/
+INFO:root:Geolocation: hk
+ERROR:root:Error summarizing article at https://news.rthk.hk/rthk/ch/component/k2/1776997-20241031.htm: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-multi-zh-en (Request ID: -9tDyD1YDeMTPsP4IKn0p)
+
+Model Helsinki-NLP/opus-mt-multi-zh-en does not exist
+INFO:root:Results for query: New gadgets
+INFO:root:Geolocation: us
+ERROR:root:Error summarizing article at https://www.stuff.tv/features/i-dont-want-more-new-tech-gadgets-where-theres-an-app-for-that/:  (Request ID: _zJuzAJ-z7pJmMUi3sZfC)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: uk
+ERROR:root:Error summarizing article at https://www.stuff.tv/features/i-dont-want-more-new-tech-gadgets-where-theres-an-app-for-that/:  (Request ID: Q1lT6K1GlBlF7ybyudPx0)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: ca
+ERROR:root:Error summarizing article at https://www.stuff.tv/features/i-dont-want-more-new-tech-gadgets-where-theres-an-app-for-that/:  (Request ID: Z9nsYITxqHDFz4tWdX9RN)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: au
+ERROR:root:Error summarizing article at https://www.stuff.tv/features/i-dont-want-more-new-tech-gadgets-where-theres-an-app-for-that/:  (Request ID: a-dp2DxHRvSF1S-ZL5HK8)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: in
+ERROR:root:Error summarizing article at https://www.stuff.tv/features/i-dont-want-more-new-tech-gadgets-where-theres-an-app-for-that/:  (Request ID: X6jR4W4wCr-XWafWsRFrE)
+
+Bad request:
+Input is too long for this model, shorten your input or use 'parameters': {'truncation': 'only_first'} to run the model only on the first part.
+INFO:root:Geolocation: hk
+INFO:root:Saved news: What Google Maps’ new AI features are and how they will help you

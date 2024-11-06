@@ -1,0 +1,8 @@
+HUGGINGFACE_API_TOKEN: Your-Hugging-Face-Token
+SERPAPI_KEY: Your-SerpAPI-Key
+DATABASE:
+  HOST: Your-DB-Host
+  PORT: Your-DB-Port
+  NAME: Your-DB-Name
+  USER: Your-DB-Username
+  PASSWORD: Your-DB-Password

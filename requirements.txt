@@ -1,0 +1,14 @@
+requests
+gspread
+oauth2client
+huggingface_hub
+langdetect
+opencc
+newspaper3k
+dateparser
+google-search-results
+lxml
+html5lib
+beautifulsoup4
+PyYAML
+psycopg2-binary
