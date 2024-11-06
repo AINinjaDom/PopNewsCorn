@@ -1,8 +1,5 @@
 PopNewsCorn
 
-![alt text] (https://ibb.co/f22wFfV)
-
- 
 This project is a Python script that fetches news articles based on specific queries and geolocations, summarizes the content, translates it if necessary, and saves the results for further processing.
 
 Table of Contents
